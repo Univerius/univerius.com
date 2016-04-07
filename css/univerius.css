@@ -1,0 +1,29 @@
+body{
+	background-color: black;
+	/*background: url("../images/background.JPG") no-repeat center center fixed; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body *{
+	color:white;
+}
+.center{
+	text-align: center;
+}
+.craters{
+	position:absolute;
+	right:-15%;
+	top:0%;
+	z-index:0;
+	width:60%;
+}
+
+h3{
+	color:#eee;
+	line-height: 1.5em;
+}
+footer, footer a{
+	color:#333;
+}
