@@ -4,8 +4,8 @@ body{
 }
 .header{
 margin-top:0px;
-padding-top:5em;
-padding-bottom:3em;
+padding-top:4em;
+padding-bottom:2em;
 
 	background: url("../images/Oct sharpened.png") no-repeat center center;
   -webkit-background-size: cover;
@@ -33,7 +33,7 @@ h3{
 	line-height: 1.5em;
 }
 footer, footer a{
-	color:#333;
+	color:#777;
 }
 img{
 	width:100%;
