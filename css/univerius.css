@@ -2,6 +2,21 @@ body{
 	background-color: black;
 
 }
+.social-buttons{
+	padding-top:25px;
+}
+.social-buttons a{
+	border:none;
+}
+.social-buttons .fb{
+background-color: #3b5998;
+}
+.social-buttons .tw{
+background-color: #00aced;
+}
+.social-buttons .ig{
+background-color: #517fa4;
+}
 .header{
 margin-top:0px;
 padding-top:4em;
